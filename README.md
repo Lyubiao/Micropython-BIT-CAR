@@ -69,3 +69,7 @@ from machine import Pin, I2C
     car.stop()
 
 ```
+
+## 使用积木控制小车
+
+- [使用教程](https://forum.banana-pi.org.cn/t/topic/3360)
